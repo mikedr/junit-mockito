@@ -17,3 +17,9 @@ It is a method to check if a result is equals to the expected.
 Each test shoudl contain only one condition.
 
 [Example of the refactored assert](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest4.java)
+
+### assertTrue assertFalse
+These are methods to check a boolean condition. 
+
+[Example assertTrue,assertFalse ](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest5.java)
+
