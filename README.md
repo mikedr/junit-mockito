@@ -13,3 +13,7 @@ A method can be consider as a unit. With JUnit we try and test a specific unit. 
 Assert is a method to check if a result is equals to the expected. 
 
 [Example of a assert](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest3.java)
+
+Each test shoudl contain only one condition.
+
+[Example of the refactored assert](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest4.java)
