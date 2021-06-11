@@ -5,5 +5,6 @@ A method can be consider as a unit. With JUnit we try and test a specific unit. 
 
 [Example of a test failing ](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest.java)
 
-**A test is succesful if there are no failures.**
+**A test is successful if there are no failures.**
 
+[Example of a successful test](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest.java)
