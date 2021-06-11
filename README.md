@@ -9,8 +9,8 @@ A method can be consider as a unit. With JUnit we try and test a specific unit. 
 
 [Example of a successful test](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest2.java)
 
-### Assert
-Assert is a method to check if a result is equals to the expected. 
+### assertEquals
+It is a method to check if a result is equals to the expected. 
 
 [Example of a assert](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest3.java)
 
