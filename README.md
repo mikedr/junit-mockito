@@ -26,5 +26,10 @@ These are methods to check a boolean condition.
 ### @Before @After
 Everyting under @Before is executed before every test. Same for @After, but after every test.
 
-[Example @Before,@After](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest6.java)
+[Example @Before, @After](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest6.java)
 
+### @BeforeClass @AfterClass
+
+Same that @Before and @After but tu do it before (or after) in class only once.
+
+[Example @BeforeClass, @AfterClass](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest7.java)
