@@ -33,3 +33,7 @@ Everyting under @Before is executed before every test. Same for @After, but afte
 Same that @Before and @After but tu do it before (or after) in class only once.
 
 [Example @BeforeClass, @AfterClass](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest7.java)
+
+### Comparing arrays
+
+[Example @BeforeClass, @AfterClass](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest8.java)
