@@ -37,3 +37,8 @@ Same that @Before and @After but tu do it before (or after) in class only once.
 ### Comparing arrays
 
 [Example @BeforeClass, @AfterClass](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest8.java)
+
+### Testing an exception
+
+
+[Example @BeforeClass, @AfterClass](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest9.java)
