@@ -42,3 +42,9 @@ Same that @Before and @After but tu do it before (or after) in class only once.
 
 
 [Example @BeforeClass, @AfterClass](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest9.java)
+
+### Testing timeout
+
+When we have very strict performance requirements we can set the expected time to finishing of the process, we can use "timeout" for the testing.
+
+[Example @BeforeClass, @AfterClass](https://github.com/mikedr/junit-mockito/blob/main/src/test/java/com/junit/StringHelperTest10.java)
